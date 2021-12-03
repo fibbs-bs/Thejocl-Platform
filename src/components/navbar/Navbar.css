@@ -1,0 +1,30 @@
+.Navbar{
+    background-color: white;
+    height: 96px;
+    width: 100%;
+    display: flex;
+}
+
+.Navbar .leftSide{
+    flex: 26%;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.Navbar .logo {
+    padding: 10px;
+    padding-right: 100px;
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: contain;
+}
+
+.Navbar .rightSide{
+    padding-left: 30px;
+    flex: 74%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
