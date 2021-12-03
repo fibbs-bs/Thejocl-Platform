@@ -9,7 +9,7 @@ function Navbar() {
         <div className = "Navbar">
         
             <div className = "leftSide">
-                <img src = {thejologogif} className = "logo" width='100' alt="aa"></img>
+                <img src = {thejologogif} className = "logo" width='100' alt="thejologo"></img>
             </div>
 
             <div className = "rightSide">
